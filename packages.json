@@ -18,5 +18,17 @@
     {
         "package": "rfutils",
         "url": "https://github.com/faskally/rfultils"
+    },
+    {
+        "package": "fflgis",
+        "url": "https://github.com/faskally/fflgis"
+    },
+    {
+        "package": "CLmodel",
+        "url": "https://github.com/faskally/clmodel"
+    },
+    {
+        "package": "rc",
+        "url": "https://github.com/faskally/rc"
     }
 ]
