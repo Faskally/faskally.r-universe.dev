@@ -1,0 +1,22 @@
+[
+    {
+        "package": "rns",
+        "url": "https://github.com/faskally/rns"
+    },
+    {
+        "package": "gmrf",
+        "url": "https://github.com/faskally/gmrf"
+    },
+    {
+        "package": "loggercal",
+        "url": "https://github.com/faskally/loggercal"
+    },
+    {
+        "package": "ef",
+        "url": "https://github.com/faskally/ef"
+    },
+    {
+        "package": "rfutils",
+        "url": "https://github.com/faskally/rfultils"
+    }
+]
